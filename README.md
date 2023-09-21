@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tannis-Campbell
 - 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning Java and SQL and brushing up my EXCEL skills
+- 🌱 I’m currently learning python and SQL and brushing up my EXCEL skills
 - 💞️ I’m looking to collaborate on any projects that will help me reach my goals or match my interests.
 - 📫 How to reach me ...tannis.campbell@ibm.com
 
